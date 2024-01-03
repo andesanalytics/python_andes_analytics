@@ -2,13 +2,13 @@
 
 # Project information
 site_name: Home
-site_url: https://github.com/fralfaro/DS-Python-Course
-site_author: Francisco Alfaro
+site_url: https://hizocar.github.io/python_andes_analytics/
+site_author: Sebastián Azócar
 site_description:
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: hizocar/python_andes_analytics
+repo_url: https://github.com/hizocar/python_andes_analytics
 edit_uri: ''
 
 
@@ -68,11 +68,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fralfaro
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/faam/
-    - icon: fontawesome/solid/globe
-      link: https://fralfaro.github.io/portfolio/
+      link: https://github.com/hizocar
 
 
 # Plugins
@@ -84,10 +80,5 @@ plugins:
 # TOC
 nav:
     - Home: index.md
-    - Conceptos Básicos:
-        - intro.ipynb
-        - basic.ipynb
-    - Manipulación Datos:
-        - pandas.ipynb
-        - seaborn.ipynb
+    - Programa: programa.md
 
