@@ -1,7 +1,7 @@
 # Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
 
 # Project information
-site_name: Home
+site_name: Andes Analytics - Python para seguros
 site_url: https://hizocar.github.io/python_andes_analytics/
 site_author: Sebastián Azócar
 site_description:
@@ -81,4 +81,6 @@ plugins:
 nav:
     - Home: index.md
     - Programa: programa.md
+    - Modulo 1:
+      - modulo_1/clase1.ipynb
 
