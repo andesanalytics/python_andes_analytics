@@ -65,3 +65,22 @@
 
 - Manejo de datos temporales y series de tiempo.
 - Casos de uso y ejemplos de análisis de datos complejos.
+
+# MÓDULO 4
+
+## Clase 1: Seaborn Univariable
+
+- Introducción a Seaborn y su método de uso
+- Gráficos de distribución: histogramas, kdeplots
+y distplots.
+- Gráficos categóricos: boxplots, violinplots y
+barplots.
+
+## Clase 2: Visualización de Datos Multivariables
+
+- Gráficos de relación: scatterplots, pairplots y
+jointplots.
+- Uso de FacetGrid y PairGrid para visualizar
+relaciones complejas.
+- Creación de mapas de calor para matrices de
+datos
