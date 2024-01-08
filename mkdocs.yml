@@ -83,4 +83,6 @@ nav:
     - Programa: programa.md
     - Modulo 1:
       - modulo_1/clase1.ipynb
+      - modulo_1/clase2.ipynb
+
 
