@@ -83,6 +83,8 @@ nav:
     - Programa: programa.md
     - Clases grabadas:
       - clases.md
+    - Cásulas:
+      - modulos.md
     - Modulo 1:
       - modulo_1/clase1.ipynb
       - modulo_1/clase2.ipynb
