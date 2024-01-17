@@ -81,8 +81,7 @@ plugins:
 nav:
     - Home: index.md
     - Programa: programa.md
-    - Clases grabadas:
-      - clases.md
+    - Clases grabadas: clases.md
     - Cápsulas: capsulas.md
     - Módulo 1:
       - modulo_1/clase1.ipynb
