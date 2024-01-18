@@ -75,6 +75,7 @@ extra:
 plugins:
   - mkdocs-jupyter:
       kernel_name: python3
+      show_input: false
   - search
 
 # TOC
