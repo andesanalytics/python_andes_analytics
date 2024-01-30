@@ -5,3 +5,7 @@
 
 ### Funciones en python
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J_aLfDtpV-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Modulo 2 
+### Comprensión de listas
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4jFNEYHIwWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
