@@ -48,7 +48,7 @@ donde:
 
 ## Github Settings 
 
-### Actions
+### Actions f
 
 1. Ir a `Settings -> Actions -> General`.
 
